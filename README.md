@@ -1,4 +1,8 @@
 # Getting Started with Create React App
+# Now with the help of this we have created a Text Tweaker in which we can change into (Uppercase as well as Lowecase ,Copy,Paste,Pronounce)
+#  we can do clear .
+# If we want to calculate the words and character then we can do with the help of this.
+# And also we can know about typing speed with the help of this.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
